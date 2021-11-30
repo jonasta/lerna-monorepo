@@ -3,10 +3,5 @@
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
-  },
-  "dependencies": {
-    "addition-module": "file:packages/addition-module",
-    "calc": "file:packages/calc",
-    "subtraction-module": "file:packages/subtraction-module"
   }
 }
